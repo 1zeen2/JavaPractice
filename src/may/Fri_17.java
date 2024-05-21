@@ -10,7 +10,7 @@ package may;
 import java.util.*;
 
 public class Fri_17 {
-	static String[] strWeek = {"일" ,"월", "화", "수", "목", "금", "토"};
+	static String[] strWeek = {"일" ,"월", "화", "수", "목", "금", "토"}; 
 	
 	//입력 => message를 통해 입력 값을 받는다.
 	static int input(String msg) {
