@@ -115,7 +115,7 @@ class Tablet extends ElectronicDevice {
 	@Override
 	public void performFunction() {
 		System.out.println("Browsing the web.");
-	}
+	} 
 	
 }
 
